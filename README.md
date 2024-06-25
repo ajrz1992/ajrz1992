@@ -11,9 +11,9 @@
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning NodeJs and REACT
+- 🌱 I’m currently teaching data Science in one of the most relevant University of Honduras.
 
-- 📝 I am certificated in Azure, Phyton, SFPC, Data Science.
+- 📝 I am certificated in Azure, Phyton, SFPC, Data Science by Harvard.
 
 - 💬 Ask me about **Cloud & Agile Practicies**
 
